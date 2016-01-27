@@ -1,0 +1,10 @@
+    private $Type$ $name$;
+    
+    public $Type$ get$methodName$() {
+        return this.$name$;
+    }
+    
+    public void set$methodName$($Type$ $name$) {
+        this.$name$ = $name$;
+    }
+    
